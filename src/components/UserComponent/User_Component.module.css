@@ -1,0 +1,23 @@
+icons{
+    color: rgb(236, 58, 96)
+}
+
+.icons *{
+    padding: 10px;
+    cursor:pointer;
+}
+
+.readonly{
+    border: none;
+    width:90%;
+    text-overflow: ellipsis;
+}
+
+.selected{
+    background-color: hsl(0,0%, 90%);
+}
+
+lable{
+    display:inline-block;
+    width:100%;
+}
